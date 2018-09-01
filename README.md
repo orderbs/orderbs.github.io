@@ -1,3 +1,19 @@
+## Links for now
+
+http://darkusblack.com/wiki/index.php?title=User:Cactus
+
+
+## Fatnasty Football
+
+Dynasty Football -- https://www.fleaflicker.com/nfl/leagues/187791 draft not scheduled yet
+
+Fatnasty Football -- http://games.espn.com/ffl/leagueoffice?leagueId=351425 draft over
+
+Fudadd Fantasy -- https://football.fantasysports.yahoo.com/f1/1457403 draft not scheduled yet
+
+FEntasy Football -- https://football.fantasysports.yahoo.com/f1/1373798 Draft is Mon Sep 3 6:00pm PDT
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/orderbs/orderbs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
