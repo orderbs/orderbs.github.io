@@ -5,7 +5,7 @@ http://darkusblack.com/wiki/index.php?title=User:Cactus
 
 ## Fatnasty Football
 
-[Fatnasty Football](http://games.espn.com/ffl/leagueoffice?leagueId=351425)
+[Fatnasty Football](http://games.espn.com/ffl/leagueoffice?leagueId=351425)  
 [FEntasy Football](https://football.fantasysports.yahoo.com/f1/1373798)  
 [Fudadd Fantasy](https://football.fantasysports.yahoo.com/f1/1457403) draft is TUESDAY Sept4 8:30 PDT  
 [Dynasty Football](https://www.fleaflicker.com/nfl/leagues/187791) draft WEDNESDAY Sept5 8:30 PDT    
@@ -38,13 +38,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orderbs/orderbs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
