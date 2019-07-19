@@ -1,9 +1,9 @@
 ## Links for now
 [Wiki](http://darkusblack.com/wiki/index.php?title=User:Cactus)
 
-## Forums
-[Amish](http://glb.warriorgeneral.com/game/forum_thread_list.pl?forum_id=16998)
-[Mafia451](https://forum.mafia451.com/u/cactus/notifications)
+## Mafia
+[Amish](http://glb.warriorgeneral.com/game/forum_thread_list.pl?forum_id=16998)  
+[Mafia451](https://forum.mafia451.com/u/cactus/notifications)  
 
 ## Fatnasty Football
 [Fatnasty Football](http://games.espn.com/ffl/leagueoffice?leagueId=351425)  
