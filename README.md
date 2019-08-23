@@ -7,6 +7,6 @@
 
 ## Fatnasty Football
 [Fatnasty Football](http://games.espn.com/ffl/leagueoffice?leagueId=351425)  
-[FEntasy Football](https://football.fantasysports.yahoo.com/f1/1373798)  
-[Fudadd Fantasy](https://football.fantasysports.yahoo.com/f1/1457403)  
+[FEntasy Football](https://football.fantasysports.yahoo.com/f1/695593)  
+[Fudadd Fantasy](https://football.fantasysports.yahoo.com/f1/425253)  
 [Dynasty Football](https://www.fleaflicker.com/nfl/leagues/187791)  
