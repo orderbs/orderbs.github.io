@@ -10,7 +10,7 @@
 **ASYNCHRONOUS GAMEPLAY!**  
 [Armello](https://steamcommunity.com/id/catullus/friendsthatplay/290340)  
 [Patchwork](https://steamcommunity.com/id/catullus/friendsthatplay/528250)  
-_[other games with steam turn notifications](https://store.steampowered.com/search/?category1=998&category2=32)_
+_other games with [steam turn notifications](https://store.steampowered.com/search/?sort_by=Reviews_DESC&category1=998&category2=32)_
 
 **SEEMS REALTIME**  
 [Carcasonne](https://steamcommunity.com/id/catullus/friendsthatplay/598810)  
