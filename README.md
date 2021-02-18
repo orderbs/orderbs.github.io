@@ -15,7 +15,7 @@
 [Carcasonne](https://steamcommunity.com/id/catullus/friendsthatplay/598810)  
 [Splendor](https://steamcommunity.com/id/catullus/friendsthatplay/376680)  
   
-**CHECKING** 
+**CHECKING**  
 [Potion Explosion](https://steamcommunity.com/id/catullus/friendsthatplay/788420)  
 [Terraforming Mars](https://steamcommunity.com/id/catullus/friendsthatplay/800270)  
 
