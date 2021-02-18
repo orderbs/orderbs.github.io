@@ -7,7 +7,27 @@
 | | | [Sleeper](https://sleeper.app/leagues/475184571319578624) |
 
 
-**STEAM**  
+**CHECKED, SEEMS REALTIME**
 [Splendor](https://steamcommunity.com/id/catullus/friendsthatplay/376680)  
+  
+**CHECKING** 
 [Terraforming Mars](https://steamcommunity.com/id/catullus/friendsthatplay/800270)  
+
+**TO CHECK**
 [Ticket to Ride](https://steamcommunity.com/id/catullus/friendsthatplay/108200)  
+
+**GAMES**  
+. 1 1 love letter
+. . . patchwork
+. . . potion explosion
+. . . twilight struggle
+-------------------[2/3]
+1   . carcasonne
+1   . king and assassins
+. .   lord of the rings
+.   . mysterium
+.   1 pandemic
+. .   scythe
+. . . small world
+1   . small world 2
+2   . talisman
