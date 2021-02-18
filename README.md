@@ -7,27 +7,28 @@
 | | | [Sleeper](https://sleeper.app/leagues/475184571319578624) |
 
 
-**CHECKED, SEEMS REALTIME**
+**ASYNCHRONOUS GAMEPLAY!**  
+[Armello](https://steamcommunity.com/id/catullus/friendsthatplay/290340)  
+[Patchwork](https://steamcommunity.com/id/catullus/friendsthatplay/528250)  
+
+**SEEMS REALTIME**  
+[Carcasonne](https://steamcommunity.com/id/catullus/friendsthatplay/598810)  
 [Splendor](https://steamcommunity.com/id/catullus/friendsthatplay/376680)  
   
 **CHECKING** 
+[Potion Explosion](https://steamcommunity.com/id/catullus/friendsthatplay/788420)  
 [Terraforming Mars](https://steamcommunity.com/id/catullus/friendsthatplay/800270)  
 
-**TO CHECK**
+**TO CHECK**  
+[Love Letter](https://steamcommunity.com/id/catullus/friendsthatplay/926520)  
+[King and Assassins](https://steamcommunity.com/id/catullus/friendsthatplay/603460)  
 [Ticket to Ride](https://steamcommunity.com/id/catullus/friendsthatplay/108200)  
+[Twilight Struggle](https://steamcommunity.com/id/catullus/friendsthatplay/406290)
 
-**GAMES**  
-. 1 1 love letter  
-. . . patchwork  
-. . . potion explosion  
-. . . twilight struggle  
--------------------[2/3]  
-1   . carcasonne  
-1   . king and assassins  
-. .   lord of the rings  
-.   . mysterium  
-.   1 pandemic  
-. .   scythe  
-. . . small world  
-1   . small world 2  
-2   . talisman  
+**TO INSTALL**  
+[Lord of the Rings](https://steamcommunity.com/id/catullus/friendsthatplay/509580)  
+[Mysterium](https://steamcommunity.com/id/catullus/friendsthatplay/556180)  
+[Pandemic](https://steamcommunity.com/id/catullus/friendsthatplay/622440)  
+[Scythe](https://steamcommunity.com/id/catullus/friendsthatplay/718560)  
+[Small World](https://steamcommunity.com/id/catullus/friendsthatplay/235620)  
+[Talisman](https://steamcommunity.com/id/catullus/friendsthatplay/247000)  
