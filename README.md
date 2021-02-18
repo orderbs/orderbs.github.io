@@ -17,17 +17,17 @@
 [Ticket to Ride](https://steamcommunity.com/id/catullus/friendsthatplay/108200)  
 
 **GAMES**  
-. 1 1 love letter
-. . . patchwork
-. . . potion explosion
-. . . twilight struggle
--------------------[2/3]
-1   . carcasonne
-1   . king and assassins
-. .   lord of the rings
-.   . mysterium
-.   1 pandemic
-. .   scythe
-. . . small world
-1   . small world 2
-2   . talisman
+. 1 1 love letter  
+. . . patchwork  
+. . . potion explosion  
+. . . twilight struggle  
+-------------------[2/3]  
+1   . carcasonne  
+1   . king and assassins  
+. .   lord of the rings  
+.   . mysterium  
+.   1 pandemic  
+. .   scythe  
+. . . small world  
+1   . small world 2  
+2   . talisman  
